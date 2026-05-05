@@ -23,10 +23,10 @@ repository               : "Khabhinav/Khabhinav.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photograph.jpeg"
   name             : "Abhinav Khanna"
   pronouns         : # example: "she/her"  
-  bio              : "B.Tech Computer Science student at IIT Delhi working on ML, robotics, AI safety, and systems."
+  bio              : "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, systems, and vision-language models."
   location         : "New Delhi, India"
   employer         : "Indian Institute of Technology, Delhi"
   uri              : # URL

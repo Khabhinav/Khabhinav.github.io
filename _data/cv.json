@@ -4,7 +4,7 @@
     "email": "abhinav_khanna@outlook.com",
     "phone": "+91 8296022976",
     "website": "https://khabhinav.github.io",
-    "summary": "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, and systems.",
+    "summary": "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, systems, and vision-language models.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,7 +27,7 @@
       "startDate": "2025-05",
       "endDate": "2025-07",
       "location": "Menlo Park, CA",
-      "summary": "Fine-tuned LLMs for portfolio management using DPO and GRPO; introduced implicit risk sensitivity via preference orderings."
+      "summary": "Fine-tuned large language models for portfolio management using DPO and GRPO, introduced risk-sensitive behavior through preference orderings, and extended the approach with model ensembles."
     },
     {
       "name": "Wipro AI, Lab45",
@@ -35,7 +35,7 @@
       "startDate": "2024-06",
       "endDate": "2024-07",
       "location": "Remote",
-      "summary": "Built deep learning and NLP systems for insurance claim processing and worked with RAG-based workflows."
+      "summary": "Developed deep learning and NLP systems for insurance claim processing, including claim classification, claim-validity prediction, and RAG integration."
     }
   ],
   "education": [
@@ -79,10 +79,10 @@
       ]
     },
     {
-      "name": "ML and Robotics",
+      "name": "ML/Robotics",
       "keywords": [
-        "TensorFlow",
         "PyTorch",
+        "TensorFlow",
         "PyBullet",
         "MuJoCo"
       ]
@@ -96,25 +96,53 @@
   "teaching": [],
   "portfolio": [
     {
-      "name": "AI Safety Guardian",
+      "name": "Semantic Safety Aware Planning",
       "category": "portfolio",
       "date": "2025",
       "url": "",
-      "description": "Vision-language model benchmarking and context augmentation for semantically safe robot navigation."
+      "description": "Hierarchical VLM and DWA planning for semantically safe navigation in uncertain environments."
+    },
+    {
+      "name": "Counterfactual Reasoning in Vision-Language-Action Models",
+      "category": "portfolio",
+      "date": "2025",
+      "url": "",
+      "description": "A dataset and benchmark for evaluating VLA models on counterfactual reasoning tasks."
+    },
+    {
+      "name": "HindiLM",
+      "category": "portfolio",
+      "date": "2026",
+      "url": "",
+      "description": "A byte-level BPE tokenizer and decoder-only Hindi language model built from basic PyTorch modules."
+    },
+    {
+      "name": "Object Clearance Planner",
+      "category": "portfolio",
+      "date": "2025",
+      "url": "",
+      "description": "PyBullet control for Franka Emika pick-and-place operations on irregular objects."
     },
     {
       "name": "Backdoor Attacks on Open-Vocabulary Object Detectors",
       "category": "portfolio",
       "date": "2024",
       "url": "",
-      "description": "Robustness study of Grounding DINO under image-space prompt-tuning triggers."
+      "description": "A robustness study of Grounding DINO under image-space prompt-tuning triggers."
     },
     {
-      "name": "Robotic Arm Manipulation in Simulation",
+      "name": "Linux Kernel Development",
       "category": "portfolio",
       "date": "2025",
       "url": "",
-      "description": "PyBullet control for Franka Emika pick-and-place tasks over irregular objects."
+      "description": "A gang scheduling class and block device driver with caching and write monitoring."
+    },
+    {
+      "name": "Anamorphic Encryption",
+      "category": "portfolio",
+      "date": "2024",
+      "url": "",
+      "description": "A systematization of knowledge for cryptographic schemes under violated sender-freedom and receiver-privacy assumptions."
     }
   ]
 }
