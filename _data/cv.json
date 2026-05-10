@@ -4,13 +4,13 @@
     "email": "abhinav_khanna@outlook.com",
     "phone": "+91 8296022976",
     "website": "https://khabhinav.github.io",
-    "summary": "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, systems, and vision-language models.",
+    "summary": "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, systems, and vision-language models. U.S. Citizen.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "New Delhi",
       "countryCode": "IN",
-      "region": "Delhi"
+      "region": "Delhi / U.S. Citizen"
     },
     "profiles": [
       {
@@ -18,7 +18,8 @@
         "username": "Khabhinav",
         "url": "https://github.com/Khabhinav"
       }
-    ]
+    ],
+    "citizenship": "U.S. Citizen"
   },
   "work": [
     {

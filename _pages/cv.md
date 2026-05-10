@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Citizenship
+======
+* U.S. Citizen.
+
 Education
 ======
 * B.Tech in Computer Science and Engineering, Indian Institute of Technology, Delhi, 2022-2026. **CGPA: 9.34/10**.

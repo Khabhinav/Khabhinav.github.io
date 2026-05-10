@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Abhinav Khanna"
 title_separator          : "-"
 name                     : &name "Abhinav Khanna"
-description              : &description "Computer Science undergraduate at IIT Delhi working on machine learning, robotics, AI safety, and systems."
+description              : &description "Computer Science undergraduate at IIT Delhi working on machine learning, robotics, and AI safety."
 url                      : https://khabhinav.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "photograph.jpeg"
   name             : "Abhinav Khanna"
   pronouns         : # example: "she/her"  
-  bio              : "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, systems, and vision-language models."
-  location         : "New Delhi, India"
+  bio              : "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, and AI safety. U.S. Citizen."
+  location         : "New Delhi, India / U.S. Citizen"
   employer         : "Indian Institute of Technology, Delhi"
   uri              : # URL
   email            : "abhinav_khanna@outlook.com"
