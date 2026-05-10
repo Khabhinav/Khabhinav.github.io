@@ -29,7 +29,7 @@ Work Experience
 Academic Projects
 ======
 * **Semantic Safety Aware Planning**, July 2025-present.
-  Built a hierarchical planning system combining a vision-language model for high-level decision-making with a DWA-based low-level controller. Improved semantic safety in navigation by incorporating risk-inducing objects as visual context and benchmarking VLM performance in uncertain environments. Work in preparation for publication.
+  Built a hierarchical planning system combining a vision-language model for high-level decision-making with a DWA-based low-level controller. Improved semantic safety in navigation by incorporating risk-inducing objects as visual context and benchmarking VLM performance in uncertain environments. Work in preparation for publication; [undergraduate thesis](https://drive.google.com/file/d/1YDo8a117sccprqWSJaHE4-YgctgOKO83/view?usp=sharing).
 * **Counterfactual Reasoning in Vision-Language-Action Models**, January-May 2025.
   Developed a dataset and benchmark for evaluating state-of-the-art vision-language-action models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy. Under double-blind review at NeurIPS 2026.
 * **HindiLM**, February-March 2026.
