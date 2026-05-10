@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Delhi, and a U.S. citizen. My work spans machine learning, robotics, AI safety, and vision-language models.
+I am a B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Delhi. My work spans machine learning, robotics, AI safety, and vision-language models.
 
 I have worked as a research intern at SRI International, where I fine-tuned large language models for portfolio management using reinforcement learning methods including DPO and GRPO, with extensions using model ensembles. I have also interned with Wipro AI, Lab45 on deep learning, NLP, and retrieval-augmented generation systems for insurance claim processing.
 

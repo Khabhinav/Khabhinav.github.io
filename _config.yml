@@ -26,8 +26,8 @@ author:
   avatar           : "photograph.jpeg"
   name             : "Abhinav Khanna"
   pronouns         : # example: "she/her"  
-  bio              : "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, and AI safety. U.S. Citizen."
-  location         : "New Delhi, India / U.S. Citizen"
+  bio              : "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, and AI safety."
+  location         : "U.S. Citizen"
   employer         : "Indian Institute of Technology, Delhi"
   uri              : # URL
   email            : "abhinav_khanna@outlook.com"
