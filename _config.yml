@@ -27,11 +27,11 @@ author:
   name             : "Abhinav Khanna"
   pronouns         : # example: "she/her"  
   bio              : "B.Tech Computer Science student at IIT Delhi working on machine learning, robotics, AI safety, and vision-language models."
-  location         : "U.S. Citizen"
+  
   employer         : "Indian Institute of Technology, Delhi"
   uri              : # URL
   email            : "abhinav_khanna@outlook.com"
-
+  location         : "U.S. Citizen"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
