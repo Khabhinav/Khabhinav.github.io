@@ -114,8 +114,8 @@
       "name": "HindiLM",
       "category": "portfolio",
       "date": "2026",
-      "url": "",
-      "description": "A byte-level BPE tokenizer and decoder-only Hindi language model built from basic PyTorch modules."
+      "url": "https://github.com/Khabhinav/HindiLM",
+      "description": "A byte-level BPE tokenizer and decoder-only Hindi language model built from basic PyTorch modules. Code available on GitHub."
     },
     {
       "name": "Object Clearance Planner",

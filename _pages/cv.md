@@ -37,7 +37,7 @@ Academic Projects
 * **Counterfactual Reasoning in Vision-Language-Action Models**, January-May 2025.
   Developed a dataset and benchmark for evaluating state-of-the-art vision-language-action models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy. Under double-blind review at NeurIPS 2026.
 * **HindiLM**, February-March 2026.
-  Built a byte-level BPE tokenizer and decoder-only language model for a Hindi corpus from basic PyTorch modules, including RoPE and GQA.
+  Built a byte-level BPE tokenizer and decoder-only language model for a Hindi corpus from basic PyTorch modules, including RoPE and GQA. [Code](https://github.com/Khabhinav/HindiLM).
 * **Object Clearance Planner**, August-September 2025.
   Controlled a Franka Emika arm in PyBullet to perform pick-and-place operations on irregular objects and smoothed trajectories with fifth-degree polynomials.
 * **Backdoor Attacks on Open-Vocabulary Object Detectors**, July-November 2024.
