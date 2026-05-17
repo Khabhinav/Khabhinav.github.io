@@ -4,4 +4,4 @@ excerpt: "A gang scheduling class and block device driver with caching and write
 collection: portfolio
 ---
 
-Added a scheduling class that forces processes registered in the same gang to execute simultaneously across all cores. Created a block device driver that implemented caching and write monitoring to the backing file.
+Added a gang scheduling class that forces registered processes in the same gang to execute simultaneously across all cores. Created a block device driver with caching, write monitoring, and instrumentation for kernel-level I/O behavior.

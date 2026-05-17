@@ -4,4 +4,4 @@ excerpt: "A systematization of knowledge for cryptographic schemes under violate
 collection: portfolio
 ---
 
-Modified cryptographic schemes to comply with violated sender-freedom and receiver-privacy assumptions. Conducted a systematization of knowledge for the field.
+Modified cryptographic schemes to operate under violations of sender-freedom and receiver-privacy assumptions. Compared constructions and conducted a systematization of knowledge for the field.

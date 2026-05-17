@@ -28,7 +28,7 @@
       "startDate": "2025-05",
       "endDate": "2025-07",
       "location": "Menlo Park, CA",
-      "summary": "Fine-tuned large language models for portfolio management using DPO and GRPO, introduced risk-sensitive behavior through preference orderings, and extended the approach with model ensembles."
+      "summary": "Fine-tuned large language models for portfolio management using DPO and GRPO, with DPO achieving a 20.3% profit margin over a three-month evaluation window; introduced risk-sensitive preference orderings and developed multi-agent and ensemble extensions. Work in preparation for publication."
     },
     {
       "name": "Wipro AI, Lab45",
@@ -36,7 +36,7 @@
       "startDate": "2024-06",
       "endDate": "2024-07",
       "location": "Remote",
-      "summary": "Developed deep learning and NLP systems for insurance claim processing, including claim classification, claim-validity prediction, and RAG integration."
+      "summary": "Developed deep learning and NLP systems for insurance claim processing across noisy claim documents, including claim classification, claim-validity prediction, RAG integration, and supporting preprocessing/evaluation scripts."
     }
   ],
   "education": [
@@ -101,49 +101,49 @@
       "category": "portfolio",
       "date": "2025",
       "url": "https://drive.google.com/file/d/1YDo8a117sccprqWSJaHE4-YgctgOKO83/view?usp=sharing",
-      "description": "Hierarchical VLM and DWA planning for semantically safe navigation in uncertain environments; undergraduate thesis linked."
+      "description": "Hierarchical VLM and DWA planning in an options-over-MDP formulation for semantically safe navigation; uses risk-inducing objects as grounded visual context and links the undergraduate thesis."
     },
     {
       "name": "Counterfactual Reasoning in Vision-Language-Action Models",
       "category": "portfolio",
       "date": "2025",
       "url": "",
-      "description": "A dataset and benchmark for evaluating VLA models on counterfactual reasoning tasks."
+      "description": "Dataset and benchmark for evaluating VLA models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy; under double-blind review at NeurIPS 2026."
     },
     {
       "name": "HindiLM",
       "category": "portfolio",
       "date": "2026",
       "url": "https://github.com/Khabhinav/HindiLM",
-      "description": "A byte-level BPE tokenizer and decoder-only Hindi language model built from basic PyTorch modules. Code available on GitHub."
+      "description": "Byte-level BPE tokenizer and decoder-only Hindi language model built from basic PyTorch modules with RoPE and GQA; achieved 4.56 compression ratio, 0.38 long-tail score, and 2.42 bits per character."
     },
     {
       "name": "Object Clearance Planner",
       "category": "portfolio",
       "date": "2025",
       "url": "",
-      "description": "PyBullet control for Franka Emika pick-and-place operations on irregular objects."
+      "description": "PyBullet control for camera-guided Franka Emika pick-and-place, using fifth-degree polynomial trajectories and visual feedback for target accessibility."
     },
     {
       "name": "Backdoor Attacks on Open-Vocabulary Object Detectors",
       "category": "portfolio",
       "date": "2024",
       "url": "",
-      "description": "A robustness study of Grounding DINO under image-space prompt-tuning triggers."
+      "description": "Robustness study of Grounding DINO under image-space prompt-tuning triggers and CoCoOp-style prompt modifications."
     },
     {
       "name": "Linux Kernel Development",
       "category": "portfolio",
       "date": "2025",
       "url": "",
-      "description": "A gang scheduling class and block device driver with caching and write monitoring."
+      "description": "Gang scheduling class and block device driver with caching, write monitoring, and instrumentation for kernel-level I/O behavior."
     },
     {
       "name": "Anamorphic Encryption",
       "category": "portfolio",
       "date": "2024",
       "url": "",
-      "description": "A systematization of knowledge for cryptographic schemes under violated sender-freedom and receiver-privacy assumptions."
+      "description": "Systematization of knowledge for cryptographic schemes operating under violated sender-freedom and receiver-privacy assumptions."
     }
   ]
 }

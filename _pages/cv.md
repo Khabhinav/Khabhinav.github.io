@@ -22,30 +22,30 @@ Education
 Work Experience
 ======
 * **Research Intern, SRI International**, May-July 2025, Menlo Park, CA.
-  * Fine-tuned large language models for portfolio management using reinforcement learning strategies including direct preference optimization (DPO) and group relative policy optimization (GRPO).
+  * Fine-tuned large language models for portfolio management using reinforcement learning strategies including direct preference optimization (DPO) and group relative policy optimization (GRPO), with DPO achieving a 20.3% profit margin over a three-month evaluation window.
   * Introduced risk-sensitive behavior via preference orderings over risky, risk-averse, and risk-neutral model outputs.
-  * Extending the approach using model ensembles to improve robustness and performance.
+  * Developing multi-agent extensions and model ensembles to improve robustness. Work in preparation for publication.
 * **Research Intern, Wipro AI, Lab45**, June-July 2024, Remote.
-  * Developed deep learning and NLP-based systems to streamline insurance claim processing.
-  * Designed a classification model to categorize claims based on textual descriptions and implemented a predictive framework to assess claim validity.
-  * Integrated retrieval-augmented generation (RAG) into the production pipeline.
+  * Developed deep learning and NLP-based systems to streamline insurance claim processing across noisy claim documents.
+  * Designed claim-classification and validity-prediction models using textual descriptions and policy-specific evidence.
+  * Integrated retrieval-augmented generation (RAG) and supporting preprocessing/evaluation scripts into the production pipeline.
 
 Academic Projects
 ======
 * **Semantic Safety Aware Planning**, July 2025-present.
-  Built a hierarchical planning system combining a vision-language model for high-level decision-making with a DWA-based low-level controller. Improved semantic safety in navigation by incorporating risk-inducing objects as visual context and benchmarking VLM performance in uncertain environments. Work in preparation for publication; [undergraduate thesis](https://drive.google.com/file/d/1YDo8a117sccprqWSJaHE4-YgctgOKO83/view?usp=sharing).
+  Built a hierarchical planning system combining a vision-language model for high-level decision-making in an options-over-MDP formulation with a DWA-based low-level controller. Used risk-inducing objects to create grounded visual context and benchmark VLM behavior in uncertain environments. [Undergraduate thesis](https://drive.google.com/file/d/1YDo8a117sccprqWSJaHE4-YgctgOKO83/view?usp=sharing). Work in preparation for publication.
 * **Counterfactual Reasoning in Vision-Language-Action Models**, January-May 2025.
-  Developed a dataset and benchmark for evaluating state-of-the-art vision-language-action models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy. Under double-blind review at NeurIPS 2026.
+  Developed a dataset and benchmark for evaluating vision-language-action models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy. Designed intervention-based tasks over scene, object configuration, and action history to diagnose causal reasoning failures. Under double-blind review at NeurIPS 2026.
 * **HindiLM**, February-March 2026.
-  Built a byte-level BPE tokenizer and decoder-only language model for a Hindi corpus from basic PyTorch modules, including RoPE and GQA. [Code](https://github.com/Khabhinav/HindiLM).
+  Built a byte-level BPE tokenizer and decoder-only Hindi language model from basic PyTorch modules, with RoPE and GQA. Achieved a compression ratio of 4.56, long-tail score of 0.38, and 2.42 bits per character. [Code](https://github.com/Khabhinav/HindiLM).
 * **Object Clearance Planner**, August-September 2025.
-  Controlled a Franka Emika arm in PyBullet to perform pick-and-place operations on irregular objects and smoothed trajectories with fifth-degree polynomials.
+  Controlled a Franka Emika arm in PyBullet for camera-guided pick-and-place operations on irregular objects. Smoothed motion with fifth-degree polynomial trajectories and updated motion plans using visual feedback until target accessibility was achieved.
 * **Backdoor Attacks on Open-Vocabulary Object Detectors**, July-November 2024.
-  Explored Grounding DINO vulnerabilities during prompt tuning using image-space triggers and a CoCoOp-style robustness modification.
+  Explored Grounding DINO vulnerabilities during prompt tuning by introducing image-space triggers and measuring trigger-induced bias in open-vocabulary classifications. Introduced a CoCoOp-style modification to examine robustness across prompts, classes, and triggered settings.
 * **Linux Kernel Development**, March-April 2025.
-  Added a gang scheduling class for simultaneous execution across cores and built a block device driver with caching and backing-file write monitoring.
+  Added a gang scheduling class that forces registered processes in the same gang to execute simultaneously across all cores. Created a block device driver with caching, write monitoring, and instrumentation for kernel-level I/O behavior.
 * **Anamorphic Encryption**, May-July 2024.
-  Modified cryptographic schemes under violated sender-freedom and receiver-privacy assumptions and conducted a systematization of knowledge for the field.
+  Modified cryptographic schemes to operate under violations of sender-freedom and receiver-privacy assumptions. Compared constructions and conducted a systematization of knowledge for the field.
 
 Scholastic Achievements
 ======

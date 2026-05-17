@@ -9,7 +9,7 @@ redirect_from:
 
 I am a B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Delhi. My work spans machine learning, robotics, AI safety, and vision-language models.
 
-I have worked as a research intern at SRI International, where I fine-tuned large language models for portfolio management using reinforcement learning methods including DPO and GRPO, with extensions using model ensembles. I have also interned with Wipro AI, Lab45 on deep learning, NLP, and retrieval-augmented generation systems for insurance claim processing.
+I have worked as a research intern at SRI International, where I fine-tuned large language models for portfolio management using DPO and GRPO, introduced risk-sensitive preference orderings, and developed multi-agent and ensemble extensions. I have also interned with Wipro AI, Lab45 on deep learning, NLP, and retrieval-augmented generation systems for insurance claim processing.
 
 My academic work includes [semantic safety-aware planning](https://drive.google.com/file/d/1YDo8a117sccprqWSJaHE4-YgctgOKO83/view?usp=sharing), counterfactual reasoning in vision-language-action models, backdoor robustness for open-vocabulary object detectors, robotic manipulation.
 

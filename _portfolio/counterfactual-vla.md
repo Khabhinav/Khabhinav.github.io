@@ -4,4 +4,6 @@ excerpt: "A dataset and benchmark for evaluating VLA models on counterfactual re
 collection: portfolio
 ---
 
-Developed a dataset and benchmark for evaluating state-of-the-art vision-language-action (VLA) models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy. This work is under double-blind review at NeurIPS 2026.
+Developed a dataset and benchmark for evaluating vision-language-action (VLA) models on counterfactual reasoning tasks grounded in Pearl's causal hierarchy. Designed intervention-based tasks over scene, object configuration, and action history to diagnose causal reasoning failures.
+
+This work is under double-blind review at NeurIPS 2026.
